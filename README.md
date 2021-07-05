@@ -41,7 +41,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 
   
   <h3>Day 1</h3>
-  <h4>How Talk Computers:</h4>
+  <h4>1.1 How Talk Computers:</h4>
   
   <p> Computers are machine which are only able to understand the binary numbers. Human understandable high  language  will be converted into machine understandable by compiler.</p>
   <br/>
@@ -98,6 +98,13 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
       
      
   <h3>Day 2</h3>
+      <h4>2.1 FloorPlanning</h4>
+      <p> Floorplanning is the initial stage of physical design flow after synthesis . It Determines the die area, core area , core utilization fcator , apect ratio.</p>
+      <p> A good power plan  will have </p>
+       -> Minimized chip area </br>
+       -> Easily routable etc.</br>
+  
+  
   <h3>Day 3</h3>
   <h3>Day 4</h3>
   <h3>Day 5</h3>
