@@ -207,7 +207,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
       run_cts  </br>   
       
   ![image](https://user-images.githubusercontent.com/30654675/124501519-5648f700-dddf-11eb-909f-c42377e5fa1d.png) </br>
-  while running cts obove observations can be made.
+  while running cts obove observations can be made.</br>
   
   After Many itreration In which slack was observed as below </br>
   
@@ -231,8 +231,46 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
  
     run_routing
   
+  
+  After run above command we will able to get def file we are able to view it in Magic tool as routing view.</br>
+  
+  ![image](https://user-images.githubusercontent.com/30654675/124505479-35849f80-dde7-11eb-8d27-04ddf48bbf8e.png)
+
+  
  <p> Routing configure Triton Route </p>
+ 
  ![rouing 1](https://user-images.githubusercontent.com/30654675/124503131-8776f680-dde2-11eb-9cba-f87549d68205.PNG)
+  
+  -> It performs initial detail route</br>
+  -> Honors the preprocesed  route guides</br>
+  -> Assumes the route guides  for each  net satisfy  interguide connectivity</br>
+  -> Works on proposed MILP -based panel routing scheme with intra-layer parallel and inter-layer sequential roting  framework</br>
+  
+  ![preprocessed routing guides](https://user-images.githubusercontent.com/30654675/124503669-a924ad80-dde3-11eb-9033-43485335cb51.PNG)
+  
+  <p>Requirements of Preprocessed  Guides:<p>
+   ->Should have unit Width</br> 
+   -> Should be in the preferred direction </br>
+   
+  <p> Intra layer  parallel inter layer sequential panel routing </p>
+  
+ ![Route layer](https://user-images.githubusercontent.com/30654675/124504088-61525600-dde4-11eb-9e65-24581d7e6f17.PNG)
+ 
+  <p>Triton Route Method to handle connectivity:</p>
+  -> Inputs:-LEF, DEF, Preprocessed route guides</br>
+  -> Outputs:-Detailed routing solution with optimized </br>
+  -> Constraints:Route guide honoring , connectivity constraints and Design rules</br>
+  
+  ![Honor connectivity](https://user-images.githubusercontent.com/30654675/124504729-adea6100-dde5-11eb-9606-df6faa99d5f8.PNG
+  
+  In which it will be have ACCESS POINTS(AP) and ACCESS POINT CLUSTER(APC)</br>
+  AP:-grid point on metal layer, used to connect to lower-layer segments, pinsor IO ports.</br>
+  APC:-Union of all APs</br>
+  
+  
+  
+  
+  
   
   
 
