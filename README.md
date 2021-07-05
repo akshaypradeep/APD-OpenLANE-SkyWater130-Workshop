@@ -60,6 +60,18 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 
   
   
+ <p> It consists of several stages.
+  Yosys- It Perform RTL Synthesis
+  abc - It performs Technology mapping
+  OpenSTA- It performs STA
+  
+   ioplacer- Places the macros input and output ports
+   pdn- It generates the power distribution network
+   RePLace- It performs Global placement
+   
+   TritonCTS- Performs the synthesis of clock distribution network
+   SPEF-extractor- Performs the spem extraction
+   Magic- Streams out final  GDSII layout file from layout DEF
   
   <h3>Day 2</h3>
   <h3>Day 3</h3>
