@@ -10,10 +10,10 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 <h3>Course Agenda: <br/>
   
   <h4>Day1 – Introduction  of open-source EDA, OpenLANE and Sky130 PDK </h4>
-  <h5>How to talk to computers</h5>
-<h5>SoC design and OpenLANE</h5>
-<h5>Starting RISC-V SoC Reference design</h5>
-<h5>Get familiar to open-source EDA tools</h5>
+  <h5>1.1.How to talk to computers</h5>
+<h5>1.2.SoC design and OpenLANE</h5>
+<h5>1.3.Starting RISC-V SoC Reference design</h5>
+<h5>1.4.Get familiar to open-source EDA tools</h5>
   
 <h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
 
