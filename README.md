@@ -10,29 +10,30 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 <h3>Course Agenda: <br/>
   
   <h4>Day1 – Introduction  of open-source EDA, OpenLANE and Sky130 PDK </h4>
+  <h5>How to talk to computers</h5>
+<h5>SoC design and OpenLANE</h5>
+<h5>Starting RISC-V SoC Reference design</h5>
+<h5>Get familiar to open-source EDA tools</h5>
+  
+<h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
 
-How to talk to computers
-SoC design and OpenLANE
-Starting RISC-V SoC Reference design
-Get familiar to open-source EDA tools
-Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells
+  <h5>Chip Floor planning considerations</h5>
+<h5>Library Binding and Placement</h5>
+<h5>Cell design and characterization flows</h5>
+<h5>General timing characterization parameters</h5>
+  
+<h4>Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice</h4>
 
-Chip Floor planning considerations
-Library Binding and Placement
-Cell design and characterization flows
-General timing characterization parameters
-Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice
-
-Labs for CMOS inverter ngspice simulations
-Inception of Layout – CMOS fabrication process
-Sky130 Tech File Labs
-Day 4 - Pre-layout timing analysis and importance of good clock tree
+<h5>Labs for CMOS inverter ngspice simulations
+<h5>Inception of Layout – CMOS fabrication process
+<h5>Sky130 Tech File Labs
+<h4>Day 4 - Pre-layout timing analysis and importance of good clock tree</h4>
 
 Timing modelling using delay tables
 Timing analysis with ideal clocks using openSTA
 Clock tree synthesis TritonCTS and signal integrity
 Timing analysis with real clocks using openSTA
-Day 5 - Final steps for RTL2GDS
+<h4>Day 5 - Final steps for RTL2GDS</h4>
 
 Routing and design rule check (DRC)
 PNR interactive flow tutorial
