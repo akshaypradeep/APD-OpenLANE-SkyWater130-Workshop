@@ -134,8 +134,13 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
     Command to Run Placemnet
     
       run_placement
-     
   ![result-placement](https://user-images.githubusercontent.com/30654675/124490879-3eb64200-ddd0-11eb-82f3-ad59d85c841d.PNG)
+  Placement steps will generate DEF file which can be used in the Magic tool to get placement view. 
+   It needs  below files</br>
+     -> DEF File</br>
+     -> sky130A.tech file </br>
+     -> Merged lef file from previous preparation setup </br>
+     ![placementdef](https://user-images.githubusercontent.com/30654675/124491364-d025b400-ddd0-11eb-9989-37e6ee582638.PNG)
 
   <h3>Day 3</h3>
   <h3>Day 4</h3>
