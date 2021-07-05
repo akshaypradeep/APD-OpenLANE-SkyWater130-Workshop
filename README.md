@@ -270,8 +270,9 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   
   
   <h4> ACKNOWLEDGEMENT</h4>
-   [KUNAL GOSH](https://github.com/kunalg123)</br>
-   [NIckson Jose](https://github.com/nickson-jose)
+   <p><a href="https://github.com/kunalg123">KUNAL GHOSH</a></p>
+   <p><a href="https://github.com/nickson-jose">NIckson Jose</a></p>
+   
   
   
   
