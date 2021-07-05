@@ -164,10 +164,18 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
       <p>  Using Normal Inverter and with specification generate a netlist deck file using ngspice  and perform transient and dc analysis. </p>
      By observing the static and Dyanmic characteristcs  we are able to calculate switching threshold, noise margins, rise time and fall time , propagation delays.</br>
      
-   Magic Layout view of cmos inverter
-     ![layoutinv41](https://user-images.githubusercontent.com/30654675/124496152-aec7c680-ddd6-11eb-808f-67f5a82bd9de.PNG)
+   Magic Layout view of cmos inverter</br> 
+   
+   ![layoutinv41](https://user-images.githubusercontent.com/30654675/124496152-aec7c680-ddd6-11eb-808f-67f5a82bd9de.PNG)
     
-  
+ <h4> 3.2 Extraction of parasites and characterization</h4>
+       Using below command  in tKcon window to extract the parasites and characterize the cell
+       1. extract all </br>
+       2. ext2spice cthesh 0 rthresh 0 </br>
+       3. ex2spice </br>
+       ![image](https://user-images.githubusercontent.com/30654675/124497067-f3079680-ddd7-11eb-9c53-960313d3e674.png)
+       
+       
   <h3>Day 4</h3>
   <h3>Day 5</h3>
 
