@@ -190,6 +190,14 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 ![inverter2](https://user-images.githubusercontent.com/30654675/124499234-4deebd00-dddb-11eb-8b05-a5aa3fb9e172.PNG)
   
        
-  <h3>Day 4</h3>
+  <h3>Day 4 -Pre-layout timing analysis and importance of good clock tree</h3>
+   4.1 Generation of .lef file using  magic tool </br>
+    For PnR flow it is not required entire information about layout. Only  pin positions and boundary information is needed.These information provided by .lef file</br>
+    ![lefwriting newgridfile](https://user-images.githubusercontent.com/30654675/124500020-a4103000-dddc-11eb-9cbb-111bc2712932.PNG)
+    ![lefcreation](https://user-images.githubusercontent.com/30654675/124500114-ce61ed80-dddc-11eb-9279-c834cf9185e6.PNG)
+
+
+    
+  
   <h3>Day 5</h3>
 
