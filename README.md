@@ -169,13 +169,25 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
    ![layoutinv41](https://user-images.githubusercontent.com/30654675/124496152-aec7c680-ddd6-11eb-808f-67f5a82bd9de.PNG)
     
  <h4> 3.2 Extraction of parasites and characterization</h4>
-       Using below command  in tKcon window to extract the parasites and characterize the cell
+       Using below command  in tKcon window to extract the parasites and characterize the cell </br>
        1. extract all </br>
        2. ext2spice cthesh 0 rthresh 0 </br>
        3. ex2spice </br>
       
   ![3extspice1](https://user-images.githubusercontent.com/30654675/124497340-509be300-ddd8-11eb-86da-c73faf04d892.PNG)
-       
+     
+  Extrct the .spec file from the layout  and need of some modifications</br>
+  -> Specify power supply</br>
+  -> Apply stimulus</br>
+  -> Change the model name as per pshort.lib and nshort.lib</br>
+  
+  Perform transient analysis with ngspice</br>
+  ![ngspice 1](https://user-images.githubusercontent.com/30654675/124499083-0bc57b80-dddb-11eb-8bd8-9965fc080927.PNG)
+  
+  plot the waveform and observe the it's characteristics</br>
+  
+  ![inverter2](https://user-images.githubusercontent.com/30654675/124499234-4deebd00-dddb-11eb-8b05-a5aa3fb9e172.PNG
+  
        
   <h3>Day 4</h3>
   <h3>Day 5</h3>
