@@ -26,16 +26,16 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 
 <h5>Labs for CMOS inverter ngspice simulations
 <h5>Inception of Layout – CMOS fabrication process
-<h5>Sky130 Tech File Labs
+<h5>Sky130 Tech File Labs</h5>
 <h4>Day 4 - Pre-layout timing analysis and importance of good clock tree</h4>
 
-Timing modelling using delay tables
+<h5>Timing modelling using delay tables
 Timing analysis with ideal clocks using openSTA
 Clock tree synthesis TritonCTS and signal integrity
-Timing analysis with real clocks using openSTA
+Timing analysis with real clocks using openSTA</h5>
 <h4>Day 5 - Final steps for RTL2GDS</h4>
 
-Routing and design rule check (DRC)
-PNR interactive flow tutorial
+<h5>Routing and design rule check (DRC)
+PNR interactive flow tutorial</h5>
 
 
