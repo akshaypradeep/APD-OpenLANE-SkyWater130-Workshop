@@ -107,9 +107,21 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
        Aspect ratio:- height to width of a std cell determines the aspect ratio
        Core Utilization factor:- Ratio of Area of Netlist to area of core
        
-  Command to Run Floorplanning</br>
+  Command to Run Floorplanning</br> 
+  
    run_floorplan</br>
+   
    ![21fllorplan](https://user-images.githubusercontent.com/30654675/124474929-c004d900-ddbe-11eb-93f4-b506e211703b.PNG)
+   
+   <p> Floorplan will genrerate def files which can be used by  magic tool  to view the floorplan </p>
+   It needs  below files</br>
+     -> DEF File</br>
+     -> sky130A.tech file </br>
+     -> Merged lef file from previous preparation setup
+     ![floorpaln magic](https://user-images.githubusercontent.com/30654675/124476417-67ced680-ddc0-11eb-9b63-5182092f890a.PNG)
+
+
+<h3>Placement</h3>
 
   
   <h3>Day 3</h3>
