@@ -35,7 +35,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 <h5>4.3 Clock tree synthesis TritonCTS and signal integrity</h5>
 <h5>4.4Timing analysis with real clocks using openSTA</h5>
   
-<h4>Day 5 - Final steps for RTL2GDS</h4>
+<h4>Day 5 - Final steps for RTL2GDS -Power Disribution</h4>
 <h5>5.1 Routing and design rule check (DRC)</h5>
 <h5>5.2 PNR interactive flow tutorial</h5>
 
@@ -206,17 +206,29 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
    To run Clock Tree Synthesis </br> 
       run_cts  </br>   
       
-  ![image](https://user-images.githubusercontent.com/30654675/124501519-5648f700-dddf-11eb-909f-c42377e5fa1d.png)
+  ![image](https://user-images.githubusercontent.com/30654675/124501519-5648f700-dddf-11eb-909f-c42377e5fa1d.png) </br>
   while running cts obove observations can be made.
   
+  After Many itreration In which slack was observed as below </br>
   
+ <p>hold_slack  0.1354ns </p>
+ <p>setup_slack  3.8342ns </p>
   
+    
+  <h3>Day 5- Power Distribution network</h3>
+  
+  <p> Power grid networks are  created while on powerpalnning of floorplannig stage .</p>
+  It consist of below </br>
+  <p> Rings:- It Carries VDD(Power) and VSS(Grnd) around the chip </br>
+  <p> Stripes:-It carries  Power and Grnd lines from Rings </P>
+  <p> Rails:- Connect the Power and Grnd to all standard cell Power and Grnds.</p>
+  
+  ![routing](https://user-images.githubusercontent.com/30654675/124502689-8ee9d000-dde1-11eb-9863-948af329d9a7.PNG)
 
-          
-          
-         
-   
-      
   
-  <h3>Day 5</h3>
+  
+  
+  
+  
+  
 
