@@ -12,7 +12,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   <h4>Day1 – Introduction  of open-source EDA, OpenLANE and Sky130 PDK </h4>
   <h5>1.1 How to talk to computers</h5>
 <h5>1.2 SoC design and OpenLANE</h5>
-<h5>1.3 Starting RISC-V SoC Reference design</h5>
+<h5>1.3 Commands used in Open-Source EDA Tools</h5>
 <h5>1.4 Get familiar to open-source EDA tools</h5>
   
 <h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
@@ -72,6 +72,23 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
    TritonCTS- Performs the synthesis of clock distribution network <br/>
    SPEF-extractor- Performs the spem extraction <br/>
    Magic- Streams out final  GDSII layout file from layout DEF <br/>
+   </p>
+     
+  <h3>1.3 The commands used in  OpenSTA tool:</h3></br>
+  prep_design <design> </br>
+  run_synthesis</br>
+  run_floorplan</br>
+  run_placement</br>
+  run_cts</br>
+  run_routing</br>
+  run_magic</br>
+  run_magic_drc</br>
+  run_lvs</br>
+  
+ <h3> 1.4 Open-Source EDA tools familirization:</h3>
+
+  The below figure shows the opensource tools to execute
+      
   
   <h3>Day 2</h3>
   <h3>Day 3</h3>
