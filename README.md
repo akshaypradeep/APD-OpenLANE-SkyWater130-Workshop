@@ -126,8 +126,17 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 
 
 <h3>Placement</h3>
+    <p> Placement  is the process, which will determine  the locations of cell on a device.Routability, performance , power dissipation, heat distribution  is depends on this stage.</br>
+    Placement  perform several steps.  It's flow is as below</br>
+     1.Global placement: It is a logical placement ,not aligned exactly , may violate  some constraints.</br>
+     2. Legalization: It makes rough solution from  above stage  by moving modules around it.</br>
+     3. Detailed placement: It improves the above leglized placement by iterative methods.</br>
+    Command to Run Placemnet
+    
+      run_placement
+     
+  ![result-placement](https://user-images.githubusercontent.com/30654675/124490879-3eb64200-ddd0-11eb-82f3-ad59d85c841d.PNG)
 
-  
   <h3>Day 3</h3>
   <h3>Day 4</h3>
   <h3>Day 5</h3>
