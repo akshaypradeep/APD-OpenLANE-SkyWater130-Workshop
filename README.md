@@ -142,6 +142,33 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
      -> Merged lef file from previous preparation setup </br>
      ![placementdef](https://user-images.githubusercontent.com/30654675/124491364-d025b400-ddd0-11eb-9989-37e6ee582638.PNG)
 
+<h4>2.3 Cell Design and Characterization flow </h4>
+     <p> Standard cell  design  follows as below </p>
+      <p>1. Inputs: </br>
+         PDK's, DRC,and LVS rules, SPICE models, library and user-defined specs.</br>
+      <p> 2.Outputs   </br>
+          GDSII, LEF, SPEF, CDL, libs</br>
+       <p>3.Design Steps </br>
+           Design of  circuit ,layout design, characterization using GUNA tool. includes Power, noise, timing libs.</br>
+           
+ <p> Standard cell Characterization  is the process of compiling the data about the behaviour of Standard cells.  </br>      
+           It involves </br<
+           1. Read the Model files, extrcated spice netlist </br>
+           2. Analyze the functionality of cell </br>
+           3. Stimulus generation and characterization make up </br>
+           4. Output load capacitance  variation with different characterization behaviours.</br>
+      Using GUNA tool to generate timing, noise and power libs    
+           
+           
+           
+           
+           
+         
+         
+      
+  
+
+
   <h3>Day 3</h3>
   <h3>Day 4</h3>
   <h3>Day 5</h3>
