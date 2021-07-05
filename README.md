@@ -52,7 +52,9 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   
  ![softto hard](https://user-images.githubusercontent.com/30654675/124462560-72cd3b00-ddaf-11eb-8290-3eec5c091f9c.PNG) 
   
+  <h4> 1.2 OpenLANE  ASIC Flow- RTL2GDS </h4>
   
+  <p> It is a automated process. It consist of several components like OpenROAD,Yosys, Magic,Netgen, TritonRoute, custom scripts, OpenSTA etc. The Below figure will show the OpenLANE flow</P>
   
   
   
