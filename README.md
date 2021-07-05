@@ -261,6 +261,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   -> Outputs:-Detailed routing solution with optimized </br>
   -> Constraints:Route guide honoring , connectivity constraints and Design rules</br>
   
+  
   ![Honor connectivity](https://user-images.githubusercontent.com/30654675/124504729-adea6100-dde5-11eb-9606-df6faa99d5f8.PNG
   
   In which it will be have ACCESS POINTS(AP) and ACCESS POINT CLUSTER(APC)</br>
@@ -268,8 +269,9 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   APC:-Union of all APs</br>
   
   
-  
-  
+  <h5> ACKNOWLEDGEMENT</h5>
+   [KUNAL GOSH](https://github.com/kunalg123)
+   [NIckson Jose](https://github.com/nickson-jose)
   
   
   
