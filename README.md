@@ -152,24 +152,22 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
            Design of  circuit ,layout design, characterization using GUNA tool. includes Power, noise, timing libs.</br>
            
  <p> Standard cell Characterization  is the process of compiling the data about the behaviour of Standard cells.  </br>      
-           It involves </br<
+           It involves </br>
            1. Read the Model files, extrcated spice netlist </br>
            2. Analyze the functionality of cell </br>
            3. Stimulus generation and characterization make up </br>
            4. Output load capacitance  variation with different characterization behaviours.</br>
       Using GUNA tool to generate timing, noise and power libs    
-           
-           
-           
-           
-           
-         
-         
-      
+                 
+            
+  <h3>Day 3 Design and characterize one library cell using Magic Layout tool and ngspice </h3>
+      <p>  Using Normal Inverter and with specification generate a netlist deck file using ngspice  and perform transient and dc analysis. </p>
+     By observing the static and Dyanmic characteristcs  we are able to calculate switching threshold, noise margins, rise time and fall time , propagation delays.</br>
+     
+   Magic Layout view of cmos inverter
+     ![layoutinv41](https://user-images.githubusercontent.com/30654675/124496152-aec7c680-ddd6-11eb-808f-67f5a82bd9de.PNG)
+    
   
-
-
-  <h3>Day 3</h3>
   <h3>Day 4</h3>
   <h3>Day 5</h3>
 
