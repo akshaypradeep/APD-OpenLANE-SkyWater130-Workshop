@@ -46,7 +46,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   <p> Computers are machine which are only able to understand the binary numbers. Human understandable high  language  will be converted into machine understandable by compiler.</p>
   <br/>
       
-
+![how to talkscomp1](https://user-images.githubusercontent.com/30654675/124459552-e0776800-ddab-11eb-99c6-fd5f1dab84de.PNG)
   
   
   
