@@ -41,8 +41,10 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 
   
   <h3>Day 1</h3>
-  <h5>How Talk Computers:</h5>
+  <h4>How Talk Computers:</h4>
+  
   <p> Computers are machine which are only able to understand the binary numbers. Human understandable high  language  will be converted into machine understandable by compiler.</p>
+  
   <h3>Day 2</h3>
   <h3>Day 3</h3>
   <h3>Day 4</h3>
