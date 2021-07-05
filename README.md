@@ -174,7 +174,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
        2. ext2spice cthesh 0 rthresh 0 </br>
        3. ex2spice </br>
       
-   ![image](https://user-images.githubusercontent.com/30654675/124497067-f3079680-ddd7-11eb-9c53-960313d3e674.png)
+  ![3extspice1](https://user-images.githubusercontent.com/30654675/124497340-509be300-ddd8-11eb-86da-c73faf04d892.PNG)
        
        
   <h3>Day 4</h3>
