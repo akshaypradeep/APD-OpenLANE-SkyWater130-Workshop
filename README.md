@@ -186,7 +186,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   
   plot the waveform and observe the it's characteristics</br>
   
-  ![inverter2](https://user-images.githubusercontent.com/30654675/124499234-4deebd00-dddb-11eb-8b05-a5aa3fb9e172.PNG
+ ![inverter2](https://user-images.githubusercontent.com/30654675/124499234-4deebd00-dddb-11eb-8b05-a5aa3fb9e172.PNG
   
        
   <h3>Day 4</h3>
