@@ -56,7 +56,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   
   <p> It is a automated process. It consist of several components like OpenROAD,Yosys, Magic,Netgen, TritonRoute, custom scripts, OpenSTA etc. The Below figure will show the OpenLANE flow</P>
   
-  ![openlneflow1](https://user-images.githubusercontent.com/30654675/124463901-2551cd80-ddb1-11eb-8654-7462fd5ce8e4.PNG)
+  ![openlneflow1](https://user-images.githubusercontent.com/30654675/124464407-c771b580-ddb1-11eb-82d4-9c8ff3bf0777.PNG)
 
   
   
