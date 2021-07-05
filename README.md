@@ -105,9 +105,12 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
        -> Easily routable etc.</br>
        
        Aspect ratio:- height to width of a std cell determines the aspect ratio
-       Core Utilization fcator:- Ratio of Area of Netlist to area of core
+       Core Utilization factor:- Ratio of Area of Netlist to area of core
        
-  
+  Command to Run Floorplanning</br>
+   run_floorplan</br>
+   ![21fllorplan](https://user-images.githubusercontent.com/30654675/124474929-c004d900-ddbe-11eb-93f4-b506e211703b.PNG)
+
   
   <h3>Day 3</h3>
   <h3>Day 4</h3>
