@@ -114,11 +114,15 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
    ![21fllorplan](https://user-images.githubusercontent.com/30654675/124474929-c004d900-ddbe-11eb-93f4-b506e211703b.PNG)
    
    <p> Floorplan will genrerate def files which can be used by  magic tool  to view the floorplan </p>
+   
+   ![floorpaln magic](https://user-images.githubusercontent.com/30654675/124476417-67ced680-ddc0-11eb-9b63-5182092f890a.PNG)
+   
    It needs  below files</br>
      -> DEF File</br>
      -> sky130A.tech file </br>
-     -> Merged lef file from previous preparation setup
-     ![floorpaln magic](https://user-images.githubusercontent.com/30654675/124476417-67ced680-ddc0-11eb-9b63-5182092f890a.PNG)
+     -> Merged lef file from previous preparation setup </br>
+     
+     
 
 
 <h3>Placement</h3>
