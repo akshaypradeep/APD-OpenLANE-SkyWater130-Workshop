@@ -99,10 +99,14 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
      
   <h3>Day 2</h3>
       <h4>2.1 FloorPlanning</h4>
-      <p> Floorplanning is the initial stage of physical design flow after synthesis . It Determines the die area, core area , core utilization fcator , apect ratio.</p>
+      <p> Floorplanning is the initial stage of physical design flow after synthesis . It Determines the die area, core area , core utilization factor , apect ratio.</p>
       <p> A good power plan  will have </p>
        -> Minimized chip area </br>
        -> Easily routable etc.</br>
+       
+       Aspect ratio:- height to width of a std cell determines the aspect ratio
+       Core Utilization fcator:- Ratio of Area of Netlist to area of core
+       
   
   
   <h3>Day 3</h3>
