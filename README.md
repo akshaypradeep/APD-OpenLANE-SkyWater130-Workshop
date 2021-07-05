@@ -199,7 +199,24 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
    ![lefcreation](https://user-images.githubusercontent.com/30654675/124500114-ce61ed80-dddc-11eb-9279-c834cf9185e6.PNG)
 
 
-    
+ <h4> 4.2 CTS:</h4>
+   Clock tree synthesis is a process which makes sure that clock should be distributed evenly  to all sequential elements and it aims to minimize the skew and latency.
+   The placement will be given as input for CTS.</br>
+   
+   To run Clock Tree Synthesis </br> 
+      run_cts  </br>   
+      
+  ![image](https://user-images.githubusercontent.com/30654675/124501519-5648f700-dddf-11eb-909f-c42377e5fa1d.png)
+  while running cts obove observations can be made.
+  
+  
+  
+
+          
+          
+         
+   
+      
   
   <h3>Day 5</h3>
 
