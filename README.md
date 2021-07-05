@@ -173,7 +173,8 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
        1. extract all </br>
        2. ext2spice cthesh 0 rthresh 0 </br>
        3. ex2spice </br>
-       ![image](https://user-images.githubusercontent.com/30654675/124497067-f3079680-ddd7-11eb-9c53-960313d3e674.png)
+      
+   ![image](https://user-images.githubusercontent.com/30654675/124497067-f3079680-ddd7-11eb-9c53-960313d3e674.png)
        
        
   <h3>Day 4</h3>
