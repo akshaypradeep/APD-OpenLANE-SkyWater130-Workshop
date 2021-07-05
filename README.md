@@ -39,4 +39,12 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 <h5>5.1 Routing and design rule check (DRC)</h5>
 <h5>5.2 PNR interactive flow tutorial</h5>
 
+  
+  <h3>Day 1</h3>
+  <h5>How Talk Computers:</h5>
+  <p> Computers are machine which are only able to understand the binary numbers. Human understandable high  language  will be converted into machine understandable by compiler.</p>
+  <h3>Day 2</h3>
+  <h3>Day 3</h3>
+  <h3>Day 4</h3>
+  <h3>Day 5</h3>
 
