@@ -88,7 +88,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
  <h3> 1.4 Open-Source EDA tools familirization:</h3>
 
   The below figure shows the opensource tools to execute
-      ![image](https://user-images.githubusercontent.com/30654675/124468195-71ebd780-ddb6-11eb-9d0a-620ff8c9a6e1.png)
+      ![image](https://user-images.githubusercontent.com/30654675/124468495-cbec9d00-ddb6-11eb-9eec-9f2ad693dd12.png)
 
   
   <h3>Day 2</h3>
