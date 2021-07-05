@@ -10,32 +10,33 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
 <h3>Course Agenda: <br/>
   
   <h4>Day1 – Introduction  of open-source EDA, OpenLANE and Sky130 PDK </h4>
-  <h5>1.1.How to talk to computers</h5>
-<h5>1.2.SoC design and OpenLANE</h5>
-<h5>1.3.Starting RISC-V SoC Reference design</h5>
-<h5>1.4.Get familiar to open-source EDA tools</h5>
+  <h5>1.1 How to talk to computers</h5>
+<h5>1.2 SoC design and OpenLANE</h5>
+<h5>1.3 Starting RISC-V SoC Reference design</h5>
+<h5>1.4 Get familiar to open-source EDA tools</h5>
   
 <h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
 
-  <h5>Chip Floor planning considerations</h5>
-<h5>Library Binding and Placement</h5>
-<h5>Cell design and characterization flows</h5>
-<h5>General timing characterization parameters</h5>
+  <h5>2.1 Chip Floor planning considerations</h5>
+<h5>2.2 Library Binding and Placement</h5>
+<h5> 2.3 Cell design and characterization flows</h5>
+<h5>2.4 General timing characterization parameters</h5>
   
 <h4>Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice</h4>
 
-<h5>Labs for CMOS inverter ngspice simulations
-<h5>Inception of Layout – CMOS fabrication process
-<h5>Sky130 Tech File Labs</h5>
+<h5>3.1 Labs for CMOS inverter ngspice simulations
+<h5>3.2 Inception of Layout – CMOS fabrication process
+<h5>3.3 Sky130 Tech File Labs</h5>
+  
 <h4>Day 4 - Pre-layout timing analysis and importance of good clock tree</h4>
 
-<h5>Timing modelling using delay tables
-Timing analysis with ideal clocks using openSTA
-Clock tree synthesis TritonCTS and signal integrity
-Timing analysis with real clocks using openSTA</h5>
+<h5>4.1 Timing modelling using delay tables</h5>
+<h5>4.2 Timing analysis with ideal clocks using openSTA</h5>
+<h5>4.3 Clock tree synthesis TritonCTS and signal integrity</h5>
+<h5>4.4Timing analysis with real clocks using openSTA</h5>
+  
 <h4>Day 5 - Final steps for RTL2GDS</h4>
-
-<h5>Routing and design rule check (DRC)
-PNR interactive flow tutorial</h5>
+<h5>5.1 Routing and design rule check (DRC)</h5>
+<h5>5.2 PNR interactive flow tutorial</h5>
 
 
