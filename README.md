@@ -47,6 +47,9 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   <br/>
       
 ![how to talkscomp1](https://user-images.githubusercontent.com/30654675/124459552-e0776800-ddab-11eb-99c6-fd5f1dab84de.PNG)
+  
+  <p> An figure below will show the high level to low level conversion process </p> 
+  
  ![softto hard](https://user-images.githubusercontent.com/30654675/124462560-72cd3b00-ddaf-11eb-8290-3eec5c091f9c.PNG) 
   
   
