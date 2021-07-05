@@ -74,7 +74,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
    Magic- Streams out final  GDSII layout file from layout DEF <br/>
    </p>
      
-  <h3>1.3 The commands used in  OpenSTA tool:</h3></br>
+  <h3>1.3 The commands used in  OpenSTA tool:</h3>
   prep_design <design> </br>
   run_synthesis</br>
   run_floorplan</br>
@@ -88,7 +88,8 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
  <h3> 1.4 Open-Source EDA tools familirization:</h3>
 
   The below figure shows the opensource tools to execute
-      
+      ![image](https://user-images.githubusercontent.com/30654675/124468195-71ebd780-ddb6-11eb-9d0a-620ff8c9a6e1.png)
+
   
   <h3>Day 2</h3>
   <h3>Day 3</h3>
