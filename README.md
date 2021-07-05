@@ -269,7 +269,7 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   APC:-Union of all APs</br>
   
   
-  <h4> ACKNOWLEDGEMENT</h4>
+  <h5> Acknowledgement</h5>
    <p><a href="https://github.com/kunalg123">1.KUNAL GHOSH</a></p>
    <p><a href="https://github.com/nickson-jose">2.NICKSON JOSE</a></p>
    
