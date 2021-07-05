@@ -219,16 +219,20 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   
   <p> Power grid networks are  created while on powerpalnning of floorplannig stage .</p>
   It consist of below </br>
-  <p> Rings:- It Carries VDD(Power) and VSS(Grnd) around the chip </br>
-  <p> Stripes:-It carries  Power and Grnd lines from Rings </P>
+  <p> Rings:- It Carries VDD(Power) and VSS(GND) around the chip </br>
+  <p> Stripes:-It carries  Power and Gnrd lines from Rings </P>
   <p> Rails:- Connect the Power and Grnd to all standard cell Power and Grnds.</p>
   
   ![routing](https://user-images.githubusercontent.com/30654675/124502689-8ee9d000-dde1-11eb-9863-948af329d9a7.PNG)
 
   
+  <h4>Routing</h4>
+  <p> Routing can be done with the use of below command</p>
+ 
+    run_routing
   
-  
-  
+ <p> Routing configure Triton Route </p>
+ ![rouing 1](https://user-images.githubusercontent.com/30654675/124503131-8776f680-dde2-11eb-9cba-f87549d68205.PNG)
   
   
 
