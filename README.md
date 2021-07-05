@@ -92,11 +92,13 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
       ![image](https://user-images.githubusercontent.com/30654675/124468495-cbec9d00-ddb6-11eb-9eec-9f2ad693dd12.png)
  
    <p> Next Import the package  with below command and prepare and setup the design </P>
-      package requre  openalane</br>
-      prep -design picotv32a</br>
-      
      ![image](https://user-images.githubusercontent.com/30654675/124471723-d741c780-ddba-11eb-84bf-b6d63b7ad9b4.png)
 
+     
+     package requre  openalane
+      prep -design picotv32a<
+      
+     
 
     
     
