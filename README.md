@@ -87,10 +87,23 @@ This Repository mainly created to focus on the work-done in  5 Days workshop of 
   
  <h3> 1.4 Open-Source EDA tools familirization:</h3>
 
-  The below figure shows the opensource tools to execute
+  The below figure shows the opensource tools to execute and  use the command below nad run as either automatively or interactively </br>
+  run ./flow.tcl interactive 
       ![image](https://user-images.githubusercontent.com/30654675/124468495-cbec9d00-ddb6-11eb-9eec-9f2ad693dd12.png)
 
   
+    
+    
+   <p> Next Import the package  with below command </P>
+     package requre  openalane</br>
+          
+     <p> Prepare  and setup the design  with below command </p>
+     prep -design picotv32a</br>
+     
+     
+    
+    
+    
   <h3>Day 2</h3>
   <h3>Day 3</h3>
   <h3>Day 4</h3>
